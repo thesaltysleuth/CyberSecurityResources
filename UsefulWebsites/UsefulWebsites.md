@@ -4,7 +4,9 @@
 
 ## Blogs:
 
-1. https://whoami.securitybreached.org/
+1. http://catb.org/~esr/ : Eric S Raymond( The GodFather, kind of)
+
+2. https://whoami.securitybreached.org/ : BugBounty resources 
 
 ## Bug Bounty:
 
