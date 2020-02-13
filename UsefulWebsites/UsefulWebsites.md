@@ -13,3 +13,7 @@
 1. https://www.bugcrowd.com/
 
 2. https://www.hackerone.com/
+
+## XSS:
+
+1. http://brutelogic.com.br/blog/
