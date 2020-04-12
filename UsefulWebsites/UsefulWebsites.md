@@ -17,3 +17,8 @@
 ## XSS:
 
 1. http://brutelogic.com.br/blog/
+
+
+## RegEx:
+
+1. https://regexr.com/
