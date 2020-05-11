@@ -22,3 +22,8 @@
 ## RegEx:
 
 1. https://regexr.com/
+
+
+## Hash Types(and examples):
+
+1. https://hashcat.net/wiki/doku.php?id=example_hashes
