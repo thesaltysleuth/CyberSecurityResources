@@ -27,3 +27,11 @@
 ## Hash Types(and examples):
 
 1. https://hashcat.net/wiki/doku.php?id=example_hashes
+
+
+
+# Cryptography:
+
+
+1. All RSA attacks: https://www.sjoerdlangkemper.nl/2019/06/19/attacking-rsa/
+
